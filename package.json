@@ -1,0 +1,27 @@
+{
+  "name": "npm-angular-dist-tags",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Simple utility for automatically organizing any npm package dist-tags like Angular does",
+  "author": "Mateusz Paduszyński <paduszym@gmail.com>",
+  "license": "MIT",
+  "keywords": ["npm", "dist-tag", "angular"],
+  "homepage": "https://github.com/paduszym/npm-angular-dist-tags#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paduszym/npm-angular-dist-tags.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paduszym/npm-angular-dist-tags/issues"
+  },
+  "bin": "./npm-angular-dist-tags.mjs",
+  "files": [],
+  "dependencies": {
+    "@npmcli/config": "^9.0.0",
+    "@npmcli/package-json": "^6.1.0",
+    "npm-package-arg": "^12.0.0",
+    "npm-registry-fetch": "^18.0.2",
+    "pacote": "^21.0.0",
+    "semver": "^7.6.3"
+  }
+}
