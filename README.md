@@ -1,7 +1,7 @@
 # `npm-angular-dist-tags`
 
-![NPM Version](https://img.shields.io/npm/v/%40angular%2Fcore)
-![NPM License](https://img.shields.io/npm/l/%40angular%2Fcore)
+![NPM Version](https://img.shields.io/npm/v/npm-angular-dist-tags)
+![NPM License](https://img.shields.io/npm/l/npm-angular-dist-tags)
 
 Simple utility for automatically organizing any npm package dist-tags like
 Angular does.
