@@ -1,6 +1,6 @@
 {
   "name": "npm-angular-dist-tags",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "module",
   "description": "Simple utility for automatically organizing any npm package dist-tags like Angular does",
   "author": "Mateusz Paduszyński <paduszym@gmail.com>",
